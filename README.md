@@ -1,2 +1,1 @@
-# sports-microservices
 # GameBooking-MicroServices
